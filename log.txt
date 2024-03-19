@@ -1,0 +1,6 @@
+cello_synthetic_38493.wav
+guitar_acoustic_38493.wav
+bass_electric_38493.wav
+guitar_electric_38493.wav
+guitar_synthetic_38493.wav
+bass_upright_38493.wav
